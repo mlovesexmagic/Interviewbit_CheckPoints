@@ -102,6 +102,6 @@ class Solution:
                 length = 1 + left + right
                 output, lengths[i - left], lengths[i + right] = max(output, length), length, length
         return output
-        ```        
+```        
       
 
