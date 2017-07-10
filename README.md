@@ -1,5 +1,7 @@
 # Interviewbit_CheckPoints
 
+![prework](https://github.com/mlovesexmagic/Interviewbit_CheckPoints/blob/master/Prework.gif)
+
 ### Checkpoint 1: AMORTIZED2
 What is the time complexity of the following code :
 
